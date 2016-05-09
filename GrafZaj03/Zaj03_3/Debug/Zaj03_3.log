@@ -1,0 +1,266 @@
+﻿  Zaj03_3.cpp
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(22): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(22): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(27): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(27): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(37): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(37): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(44): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(44): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(51): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(51): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(56): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(56): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(68): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(68): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(82): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(82): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(89): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(89): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(94): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(94): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(99): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(99): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(104): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(104): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(111): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(111): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(118): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(118): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(123): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(123): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(128): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(128): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(135): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(135): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(149): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(149): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(156): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(156): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(161): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(161): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(168): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(168): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(175): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(175): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(182): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(182): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(189): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(189): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(194): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(194): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(201): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(201): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(206): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(206): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(213): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(213): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(218): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(218): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(223): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(223): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(228): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(228): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(233): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(233): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(238): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(238): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(245): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(245): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(250): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(250): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(255): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(255): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(260): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(260): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(265): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(265): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(270): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(270): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(275): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(275): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(280): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(280): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(292): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(292): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(297): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(297): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(304): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(304): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(309): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(309): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(316): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(316): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(323): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(323): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(330): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(330): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(337): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(337): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(344): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(344): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(349): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(349): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(356): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(356): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(363): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(363): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(370): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(370): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(377): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(377): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(382): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(382): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(387): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(387): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(392): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(392): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(397): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(397): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(402): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(402): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(407): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(407): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(412): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(412): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(417): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(417): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(422): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(422): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(427): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(427): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(432): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(432): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(437): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(437): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(442): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(442): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(447): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(447): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(452): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(452): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(457): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(457): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(471): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(471): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(478): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(478): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(492): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(492): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(497): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(497): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(502): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(502): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(507): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(507): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(512): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(512): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(517): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(517): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(522): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(522): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(527): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(527): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(532): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(532): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(537): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(537): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(542): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(542): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(547): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(547): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(552): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(552): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(557): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(557): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(562): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(562): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(569): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(569): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(574): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(574): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(581): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(581): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(589): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(589): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(596): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(596): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(603): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(603): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(608): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(608): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(613): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(613): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(620): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(620): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(627): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(627): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(632): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(632): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(637): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(637): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(642): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(642): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(647): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(647): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(654): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(654): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(661): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(661): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(666): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(666): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(673): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(673): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(685): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(685): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(690): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(690): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(697): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(697): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(704): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(704): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(709): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(709): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(714): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(714): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(719): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(719): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(726): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(726): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(733): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(733): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(740): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(740): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(747): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(747): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(754): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(754): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(761): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(761): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(768): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(768): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(775): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(775): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(782): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(782): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(789): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(789): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(796): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(796): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(803): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(803): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(817): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(817): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(824): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(824): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(829): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(829): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(841): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(841): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(855): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\colors.h(855): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\zaj03_3.cpp(242): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\zaj03_3.cpp(247): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\zaj03_3.cpp(277): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\bartek\documents\visual studio 2015\projects\grafika\zaj03_3\zaj03_3.cpp(279): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zaj03_3.vcxproj -> C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafika\Debug\Zaj03_3.exe

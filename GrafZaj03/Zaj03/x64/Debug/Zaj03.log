@@ -1,0 +1,9 @@
+﻿  Zaj03_1.cpp
+i:\grafika\grafzaj03\zaj03\zaj03_1.cpp(56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+i:\grafika\grafzaj03\zaj03\zaj03_1.cpp(159): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+i:\grafika\grafzaj03\zaj03\zaj03_1.cpp(164): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+i:\grafika\grafzaj03\zaj03\zaj03_1.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+i:\grafika\grafzaj03\zaj03\zaj03_1.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+i:\grafika\grafzaj03\zaj03\zaj03_1.cpp(220): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+i:\grafika\grafzaj03\zaj03\zaj03_1.cpp(222): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Zaj03.vcxproj -> I:\Grafika\GrafZaj03\x64\Debug\Zaj03_1.exe
