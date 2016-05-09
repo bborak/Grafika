@@ -1,0 +1,19 @@
+﻿Build started 15.03.2016 21:31:40.
+     1>Project "C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\Zaj02\Zaj02.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Zaj02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Zaj02-1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Zaj02-1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Zaj02.cpp
+         Zaj02.cpp
+     1>c:\users\bart\documents\visual studio 2015\projects\zaj02\zaj02\zaj02.cpp(39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\bart\documents\visual studio 2015\projects\zaj02\zaj02\zaj02.cpp(40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\Debug\Zaj02-1.exe" /INCREMENTAL /NOLOGO "C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib" "C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib" "C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\Debug\Zaj02-1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\Debug\Zaj02-1.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\Zaj02.obj
+         Zaj02.vcxproj -> C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\Debug\Zaj02-1.exe
+     1>Done Building Project "C:\Users\Bart\Documents\Visual Studio 2015\Projects\Zaj02\Zaj02\Zaj02.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.50
